@@ -1,2 +1,2 @@
 # validation
-an r script for validating the accuracy of a classified raster image from validation points 
+An r script for creating an error matrix for the accuracy of a classified raster image based on validation points 
